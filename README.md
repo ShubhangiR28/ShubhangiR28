@@ -16,9 +16,6 @@
 communication. ❤
 - I'm enthusiastic about what I do and love to explore things. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
-
-
 <!-- ##  ✔ Technologies  -->
 
 <!-- ### Languages⚡
